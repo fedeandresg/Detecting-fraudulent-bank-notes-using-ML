@@ -1,10 +1,12 @@
 ![Logo](https://s44650.pcdn.co/wp-content/uploads/2023/07/open-banking-1200-1662083126-1.jpg)
 
-# DATA SCIENCE - DETECTING FRADULULENT BANK NOTES WITH MACHINE LEARNING
+# DATA SCIENCE - Detecting fradulent bank notes using ML
 # Machine Learning
 
 In this project, I will try to classify the bank notes as genuine or fake through **`ML algorithms`**.
+
 Also I will analize the data for a better project.
+
 For that purpose, I'm going to use a dataset from UCI Machine Learning.
 
 ## Context
@@ -32,7 +34,16 @@ They can be viewed at the following link:
 
 ## Classification models - Machine Learning
 
+The following classification models were used for the project:
 
+- Logistic regression
+- Support Vector Machine
+- Support Vector Machine (rbf kernel)
+- Randon Forest Classifier
+- Kneighbors Classifier
+- Multilayer Perceptron (neural network)
+
+All models presented great results in terms of accuracy. The confusion matrices confirm the fact that they all predict the label 'Class' very well.
 
 They can be viewed at the following link:
 
